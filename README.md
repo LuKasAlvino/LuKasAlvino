@@ -2,9 +2,9 @@
 
 ## Olá bem vindo
 
-- 🔭 Estudante de Ciência da Computação da Universidade Federal de Roraima (UFRR)
+- 🔭 Computer Science Student at the Federal University of Roraima (UFRR)
 
-- ⚡Amante da música e guitarras
+- ⚡Music and guitar lover
 
  <a href="https://github.com/LuKAsAlvino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuKAsAlvino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
